@@ -20,9 +20,9 @@ The main focus of the game is on exploration, survival, and solving puzzles. The
 Most of the visual assets and animations have been downloaded from sites:
 
 - https://www.turbosquid.com
-- https://www.texturecan.com/
-- https://polyhaven.com/
-- https://www.mixamo.com/#/
+- https://www.texturecan.com
+- https://polyhaven.com
+- https://www.mixamo.com
 
 ### Sound
 - The main menu music was created using FL Studio.
