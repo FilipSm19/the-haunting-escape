@@ -33,3 +33,5 @@ Most of the visual assets and animations have been downloaded from sites:
 ![image](https://github.com/user-attachments/assets/06c9b50d-9bde-4ae8-9390-498e5dc594d7)
 ![image](https://github.com/user-attachments/assets/f7516d09-12ab-4be2-81f9-15b3fc63dc20)
 
+## Assets folder
+https://www.mediafire.com/file/55tv6hbigmck5is/TheHauntingEscapeAssets.zip/file (Put in Assets folder)
