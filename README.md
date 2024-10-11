@@ -28,9 +28,6 @@ Most of the visual assets and animations have been downloaded from sites:
 - The main menu music was created using FL Studio.
 - Most of the ambiental sounds have been downloaded (https://freesound.org/) and edited using FL Studio.
 
-## Design
-Both main menu and level design have been implemented and created by Marina Grlaš.
-
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/86a1eba9-3153-4974-9992-88d9903c6e75)
 ![image](https://github.com/user-attachments/assets/06c9b50d-9bde-4ae8-9390-498e5dc594d7)
